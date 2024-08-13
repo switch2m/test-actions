@@ -3,3 +3,9 @@ we provide either /25 and above for vnet address mask
 in the network config we should respect the networking standard
 on the access provisioning part on azure the pipeline  support creating only two groups "Contributurs" and "Cost-Readers"
 on the networking part we don't provide peering with regions in a different geo region where the sub has been created
+
+e network config we should respect the networking standard
+on the access provisioning part on azure the pipeline  support creating only two groups "Contributurs" and "Cost-Readers"
+on the networking part we don't provide peering with regions in a different geo region where the sub has been createde network config we should respect the networking standard
+on the access provisioning part on azure the pipeline  support creating only two groups "Contributurs" and "Cost-Readers"
+on the networking part we don't provide peering with regions in a different geo region where the sub has been created
